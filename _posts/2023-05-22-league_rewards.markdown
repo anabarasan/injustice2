@@ -6,6 +6,27 @@ date:   2023-05-22 05:34:00 +0530
 
 ## 2023-05-23 - Tier 3
 
+Day 2
+
+## Scarecrow
+
+Team Used: KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate
+
+Difficulty: Easy
+
+## Captain Cold
+
+Team Used: BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet)
+
+Difficult: Easy (with one minute Left)
+
+Win: Nope
+
+the DAMAGE League bug happened again.  left me to clear 32k again wasting another pip
+
+Team Used: Swamp Thing + EPI + Horrific Scarecrow.
+
+
 Day 1
 
 ### Gorilla Grodd
