@@ -6,98 +6,38 @@ date:   2023-05-22 05:34:00 +0530
 
 ## 2023-05-23 - Tier 3
 
-Day 2
+| Gorilla Grodd | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Doctor Fate | LLTJ (Catchy Hook) + HBHQ (Claws of Horus Lv10) + EPI |
+| Scarecrow | BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet) |
+| Scarecrow | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate |
+| Captain Cold | BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet) |
+| Captain Cold | Swamp Thing + EPI + Horrific Scarecrow |
+| Brainiac P1 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P2 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P3 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P4 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P4 | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate |
 
-## Scarecrow
-
-Team Used: KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate
-
-Difficulty: Easy
-
-## Captain Cold
-
-Team Used: BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet)
-
-Difficult: Easy (with one minute Left)
-
-Win: Nope
-
-the DAMAGE League bug happened again.  left me to clear 32k again wasting another pip
-
-Team Used: Swamp Thing + EPI + Horrific Scarecrow.
-
-
-Day 1
-
-### Gorilla Grodd
-Team Used: BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK
-
-Difficulty: Comfortable
-
-### Doctor Fate
-Team Used: LLTJ (Catchy Hook) + HBHQ (Claws of Horus Lv10) + EPI
-
-Difficulty: Hard (13 seconds left)
-
-### Scarecrow
-Team Used: BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet)
-
-Difficulty: Super Hard
-
-Win: Nope (63.54% Done)
+#### Rewards:
+* League Shards: 350
+* Stellar Orb 1
+* Soulstealer Dr Fate Shards 10
+* Soulstealer Dr Fate Head Gear Lvl 20
+* HellBoy Hand Gear Lvl 40
+* Soulstealer Dr Fate Hand Gear Lvl 40
 
 ---
 
 ## 2023-05-19 - Tier 3
 
-Day 3
-
-### Brainiac
-
-Phase1: BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK
-
-Phase2: BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK
-
-Phase3: BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK
-
-Phase4: BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK
-
-Phase4: KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate
-
-Day 2
-
-### Doctor Fate
-Team Used: Robin, Gorilla Grodd, Hellboy
-
-Difficulty: Medium (for 16k damage)
-
-### Scarecrow
-Team Used: KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate
-
-Difficulty: Comfortable
-
-### Captain Cold
-Team Used: BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet)
-
-Difficult: Hard (13 seconds left)
-
-Day 1
-
-### Gorilla Grodd
-Team Used: BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK
-
-Difficulty: Comfortable
-
-### Doctor Fate
-Team Used: BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet)
-
-Difficulty: Hard (15 seconds left)
-
-Some bug in the game, though i am the only player in the league, it put league damage and removed around 16k damage
-
-### Scarecrow
-Team Used: LLTJ (Catchy Hook) + HBHQ (Claws of Horus Lv10) + EPI
-
-Difficulty: Super Hard (62.43% Done)
-
-
+| Gorilla Grodd | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Doctor Fate | BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet) |
+| Doctor Fate | Robin, Gorilla Grodd, Hellboy |
+| Scarecrow | LLTJ (Catchy Hook) + HBHQ (Claws of Horus Lv10) + EPI |
+| Scarecrow | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate |
+| Captain Cold | BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet) |
+| Brainiac P1 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P2 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P3 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P4 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P4 | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate |
