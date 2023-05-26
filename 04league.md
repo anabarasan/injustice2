@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "League Rewards"
-date:   2023-05-22 05:34:00 +0530
+layout: page
+title: League
+permalink: /league/
 ---
 
+
 ## 2023-05-26 - Tier 3
+
 | Gorilla Grodd | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
 | Doctor Fate | LLTJ (Catchy Hook) + HBHQ (Claws of Horus Lv10) + EPI |
 | Scarecrow | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate |
