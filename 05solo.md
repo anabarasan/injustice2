@@ -4,5 +4,6 @@ title: Solo Raids
 permalink: /solo/
 ---
 
-| Ancient Judgement | |
-| Tase of Evil | |
+| Taste of Evil | 2023-05-28 | |
+| Ancient Judgement | | 2023-05-27 |
+| Tase of Evil | | |
