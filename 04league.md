@@ -10,11 +10,11 @@ permalink: /league/
 | Gorilla Grodd | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
 | Doctor Fate | LLTJ (Catchy Hook) + HBHQ (Claws of Horus Lv10) + EPI |
 | Scarecrow | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate |
-| Captain Cold | |
-| Brainiac P1 | |
-| Brainiac P2 | |
-| Brainiac P3 | |
-| Brainiac P4 | |
+| Captain Cold | BNGG (Amulet of Might Lv5) + BNR (Kryptonian Regeneration Matrix Lv5) + BNCW (Zatanna's Puppet) |
+| Brainiac P1 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P2 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P3 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
+| Brainiac P4 | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Atlantean Armoured Aquaman |
 
 ## 2023-05-23 - Tier 3
 
@@ -28,7 +28,7 @@ permalink: /league/
 | Brainiac P2 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
 | Brainiac P3 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
 | Brainiac P4 | BWTD (Sharp Scythe) + BMWL (Dark Metal Cards) + RK |
-| Brainiac P4 | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Dr. Fate |
+| Brainiac P4 | KOAA (Nora's Snow Globe) + Raven (Zatanna's Puppet) + Atlantean Armoured Aquaman |
 
 #### Rewards:
 * League Shards: 350
