@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Speedforce The Flash | 2023-06-06 |
+| Sub Zero| 2023-06-10 | |
+| Speedforce The Flash | 2023-06-06 | 2023-06-10 |
 | Warrior Queen Wonder Woman| 2023-06-03 | 2023-06-06 |
 | Silver Banshee | 2023-05-30 | 2023-06-03 |
 | Powered Supergirl | 2023-05-27 | 2023-05-30 |
