@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Justice League The Flash| 17 June 2023 | 20 June 2023 |
 | Justice League Batman | 13 June 2013 | 17 June 2023 |
 | Multiverse White Canary | 10 June 2023 | 13 June 2023 |
 | Multiverse Captain Cold| 6 June 2023 | 10 June 2023 |
