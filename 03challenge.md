@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Blue Beetle| 2023-06-17 |  |
+| Cheetah | 2023-06-21 |  |
+| Blue Beetle| 2023-06-17 | 2023-06-20 |
 | Hellboy | 2023-06-14 | 2023-06-17 |
 | Sub Zero| 2023-06-10 | 2023-06-13 |
 | Speedforce The Flash | 2023-06-06 | 2023-06-10 |
