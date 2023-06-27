@@ -4,7 +4,7 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Soul Stealer Dr Fate | 2023-06-24 |  |
+| Soul Stealer Dr Fate | 2023-06-24 | 2023-06-27 |
 | Cheetah | 2023-06-21 | 2023-06-24 |
 | Blue Beetle| 2023-06-17 | 2023-06-20 |
 | Hellboy | 2023-06-14 | 2023-06-17 |
