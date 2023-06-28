@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Batman Ninja Lord Joker | 27 June 2023 | 1 July 2023 |
 | Shazam | 24 June 2023 | 27 June 2023 |
 | Justice League Aquaman| 20 June 2023 | 23 June 2023 |
 | Justice League The Flash| 17 June 2023 | 20 June 2023 |
