@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Grid | 2023-06-24 |  |
+| Energized Starfire | 2023-06-30 |
+| Grid | 2023-06-27 | 2023-06-30 |
 | Soul Stealer Dr Fate | 2023-06-24 | 2023-06-27 |
 | Cheetah | 2023-06-21 | 2023-06-24 |
 | Blue Beetle| 2023-06-17 | 2023-06-20 |
