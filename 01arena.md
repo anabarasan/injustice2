@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Black Adam | 8 July 2023 | 11 July 2023 |
 | Dark Supergirl | 4 July 2023 | 8 July 2023 |
 | Batman Ninja Batman | 1 July 2023 | 4 July 2023 |
 | Batman Ninja Lord Joker | 27 June 2023 | 1 July 2023 |
