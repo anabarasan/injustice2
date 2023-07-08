@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Ace Green Arrow | 2023-07-04 |  |
+| Raiden | 2023-07-08 |  |
+| Ace Green Arrow | 2023-07-04 | 2023-07-07 |
 | Energized Starfire | 2023-06-30 | 2023-07-03 |
 | Grid | 2023-06-27 | 2023-06-30 |
 | Soul Stealer Dr Fate | 2023-06-24 | 2023-06-27 |
