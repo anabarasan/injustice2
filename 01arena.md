@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Nightwing | 11 July 2023 | 15 July 2023 |
 | Black Adam | 8 July 2023 | 11 July 2023 |
 | Dark Supergirl | 4 July 2023 | 8 July 2023 |
 | Batman Ninja Batman | 1 July 2023 | 4 July 2023 |
