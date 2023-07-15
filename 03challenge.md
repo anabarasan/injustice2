@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Powered Supergirl| 2023-07-12 |  |
+| Speedforce The Flash | 2023-07-15 |  |
+| Powered Supergirl| 2023-07-12 | 2023-07-14 |
 | Raiden | 2023-07-08 | 2023-07-11 |
 | Ace Green Arrow | 2023-07-04 | 2023-07-07 |
 | Energized Starfire | 2023-06-30 | 2023-07-03 |
