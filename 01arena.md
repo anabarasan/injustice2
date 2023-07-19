@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Justice League Batman | 18 July 2023 | 22 July 2023 |
 | Multiverse Supergirl| 15 July 2023 | 18 July 2023 |
 | Nightwing | 11 July 2023 | 15 July 2023 |
 | Black Adam | 8 July 2023 | 11 July 2023 |
