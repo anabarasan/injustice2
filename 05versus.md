@@ -4,7 +4,8 @@ title: Versus Challenge
 permalink: /versus/
 ---
 
-| Multiverse Characters | 2023-07-19 |  |
+| Hawkman | 2023-07-26 |  |
+| Multiverse Characters | 2023-07-19 | 2023-07-26 |
 | Batwoman The Drowned | 2023-07-12 | 2023-07-19 |
 | Batman Ninja Catwoman | 2023-07-06 | 2023-07-12 |
 | Golden Armour Wonder Woman | 2023-06-28 | 2023-07-05 |
