@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Warrior Queen Wonder Woman | 2023-07-25 |  |
+| Hellboy | 2023-07-28 |  |
+| Warrior Queen Wonder Woman | 2023-07-25 | 2023-07-28 |
 | Silver Banshee | 2023-07-21 | 2023-07-25 |
 | Subzero | 2023-07-18 | 2023-07-21 |
 | Speedforce The Flash | 2023-07-15 | 2023-07-18 |
