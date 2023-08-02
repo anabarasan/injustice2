@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Batman Ninja Catwoman| 2023-08-01 | 2023-08-05 |
 | Multiverse Green Arrow | 2023 July 29 | 2023 August 01 |
 | Knightmare Batman | 25 July 2023 | 29 July 2023 |
 | Justice League The Flash | 22 July 2023 | 25 July 2023 |
