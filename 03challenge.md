@@ -4,7 +4,7 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Cheetah | 2023-08-04 |  |
+| Cheetah | 2023-08-04 | 2023-08-08 |
 | Raiden | 2023-08-01 | 2023-08-04 |
 | Hellboy | 2023-07-28 | 2023-07-31 |
 | Warrior Queen Wonder Woman | 2023-07-25 | 2023-07-28 |
