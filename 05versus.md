@@ -4,7 +4,9 @@ title: Versus Challenge
 permalink: /versus/
 ---
 
-| Hawkman | 2023-07-26 |  |
+| Batman Ninja Robin | 2023-08-09 |  |
+| Brainiac | 2023-08-02 | 2023-08-09 |
+| Hawkman | 2023-07-26 | 2023-08-02 |
 | Multiverse Characters | 2023-07-19 | 2023-07-26 |
 | Batwoman The Drowned | 2023-07-12 | 2023-07-19 |
 | Batman Ninja Catwoman | 2023-07-06 | 2023-07-12 |
