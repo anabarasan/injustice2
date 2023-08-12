@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Soul Stealler Dr Fate| 2023-08-08 |  |
+| Grid | 2023-08-12 |  |
+| Soul Stealler Dr Fate| 2023-08-08 | 2023-08-12 |
 | Cheetah | 2023-08-04 | 2023-08-08 |
 | Raiden | 2023-08-01 | 2023-08-04 |
 | Hellboy | 2023-07-28 | 2023-07-31 |
