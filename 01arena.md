@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Multiverse Captain Cold| 2023-08-12 | 2023-08-15 |
 | Multiverse Black Lightning| 2023-08-08 | 2023-08-12 |
 | Batman Ninja Robin | 2023-08-05 | 2023-08-08 |
 | Batman Ninja Catwoman| 2023-08-01 | 2023-08-05 |
