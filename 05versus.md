@@ -4,7 +4,8 @@ title: Versus Challenge
 permalink: /versus/
 ---
 
-| Batman Ninja Robin | 2023-08-09 |  |
+| Vixen | 2023-08-16 |  |
+| Batman Ninja Robin | 2023-08-09 | 2023-08-17 |
 | Brainiac | 2023-08-02 | 2023-08-09 |
 | Hawkman | 2023-07-26 | 2023-08-02 |
 | Multiverse Characters | 2023-07-19 | 2023-07-26 |
