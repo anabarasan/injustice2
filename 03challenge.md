@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Blue Beetle | 2023-08-15 |  |
+| Ace Green Arrow | 2023-08-19 |  |
+| Blue Beetle | 2023-08-15 | 2023-08-19 |
 | Grid | 2023-08-12 | 2023-08-15 |
 | Soul Stealler Dr Fate| 2023-08-08 | 2023-08-12 |
 | Cheetah | 2023-08-04 | 2023-08-08 |
