@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Justice League Batman| 2023-08-19 | 2023-08-22 |
 | Multiverse White Canary | 2023-08-15 | 2023-08-19 |
 | Multiverse Captain Cold| 2023-08-12 | 2023-08-15 |
 | Multiverse Black Lightning| 2023-08-08 | 2023-08-12 |
