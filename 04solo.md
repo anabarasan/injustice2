@@ -3,7 +3,7 @@ layout: page
 title: Solo Raids
 permalink: /solo/
 ---
-
+| This is Magic | 2023-08-17 |  |
 | On Ice | 2023-08-01 | 2023-08-17 |
 | Taste of Evil | 2023-07-16 | 2023-08-01 |
 | Kingdom of Madness | 2023-06-30 | 2023-07-16 |
