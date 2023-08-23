@@ -4,7 +4,8 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Ace Green Arrow | 2023-08-19 |  |
+| Energized Starfire | 2023-08-22 |  |
+| Ace Green Arrow | 2023-08-19 | 2023-08-22 |
 | Blue Beetle | 2023-08-15 | 2023-08-19 |
 | Grid | 2023-08-12 | 2023-08-15 |
 | Soul Stealler Dr Fate| 2023-08-08 | 2023-08-12 |
