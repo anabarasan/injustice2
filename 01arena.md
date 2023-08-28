@@ -4,6 +4,7 @@ title: Arena
 permalink: /arena/
 ---
 
+| Justice League Aquaman | 2023-08-26 | 2023-08-29 |
 | Justice League The Flash | 2023-08-22 | 2023-08-26 |
 | Justice League Batman| 2023-08-19 | 2023-08-22 |
 | Multiverse White Canary | 2023-08-15 | 2023-08-19 |
