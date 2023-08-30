@@ -4,8 +4,9 @@ title: Challenge
 permalink: /challenge/
 ---
 
-| Powered Supergirl |  |  |
-| Energized Starfire | 2023-08-22 |  |
+| Silver Banshee | 2023-08-29 |  |
+| Powered Supergirl | 2023-08-25 | 2023-08-29 |
+| Energized Starfire | 2023-08-22 | 2023-08-25 |
 | Ace Green Arrow | 2023-08-19 | 2023-08-22 |
 | Blue Beetle | 2023-08-15 | 2023-08-19 |
 | Grid | 2023-08-12 | 2023-08-15 |
