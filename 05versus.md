@@ -4,7 +4,8 @@ title: Versus Challenge
 permalink: /versus/
 ---
 
-| Collector of Worlds Superman| 2023-08-23 | 2023-08-31 |
+| Batman Ninja Catwoman | 2023-08-30 |  |
+| Collector of Worlds Superman | 2023-08-23 | 2023-08-30 |
 | Vixen | 2023-08-16 | 2023-08-23 |
 | Batman Ninja Robin | 2023-08-09 | 2023-08-17 |
 | Brainiac | 2023-08-02 | 2023-08-09 |
